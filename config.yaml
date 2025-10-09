@@ -1,0 +1,5 @@
+azure_storage:
+  containers:
+    bronze: "bronze"
+    silver: "silver"
+    gold: "gold"
